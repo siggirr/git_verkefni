@@ -2,12 +2,25 @@ Git spurningar og svör.
 
 1. Hvað gera eftirfarandi Linux skipanir?
 *	cd    
-	* cd command is used to change the current directory.
+	*	cd command is used to change the current directory.
 *   cd ~  
-	* Change directory(Home directory).
+	*	Change directory(Home directory).
 *	ls    
-	* Lists the contents of a directory.
+	*	Lists the contents of a directory.
 *	pwd   
-	* pwd prints the full pathname of the current working directory.
+	*	pwd prints the full pathname of the current working directory.
 *	mkdir 
-	* Short for "make directory", mkdir is used to create directories on a file system. 
+	*	Short for "make directory", mkdir is used to create directories on a file system. 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+*	git clone    
+	*	Create a working copy of a local repository.
+*	git log      
+	*	Shows the commit logs.
+*	git status   
+	*	List the files you've changed and those you still need to add or commit.
+*	git diff     
+	*	View all the merge conflicts.
+*	git checkout 
+	*	Skipta um branch.
+	
