@@ -1,3 +1,5 @@
+Git spurningar og svör.
+
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd    : cd command is used to change the current directory.
 	cd ~  : Change directory(Home directory).
