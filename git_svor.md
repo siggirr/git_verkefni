@@ -10,4 +10,4 @@ Git spurningar og svör.
 *	pwd   
 	* pwd prints the full pathname of the current working directory.
 *	mkdir 
-	* Short for "make directory", mkdir is used to create directories on a file system.
+	* Short for "make directory", mkdir is used to create directories on a file system. 
