@@ -35,4 +35,4 @@ Git spurningar og svör.
 	* Sýnir munnin á tveimur "committum"
 
 #4. Hvað er útgáfustýring (e.version control)? 
-	* Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+* Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
