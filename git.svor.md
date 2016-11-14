@@ -4,31 +4,3 @@
 	ls    : Lists the contents of a directory.
 	pwd   : pwd prints the full pathname of the current working directory.
 	mkdir : Short for "make directory", mkdir is used to create directories on a file system.
-
-
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone    : Create a working copy of a local repository.
-	git log      : Shows the commit logs.
-	git status   : List the files you've changed and those you still need to add or commit.
-	git diff     : View all the merge conflicts.
-	git checkout : Skipta um branch.
-
-
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 		    : Sýnir það sem var merge-að
-	b) git diff --staged        : Til að sjá hvað það var breytt sem hefur verið stage-að
-	c) git diff commit1 commit2
-
-4. 	Hvað er útgáfustýring (e.version control)? 
-
-5.	Hverjir eru helstu kostir við að nota GIT?
-	
-	*það er mjög hentugt t.d. að vinna í hóp til að share-a hugmyndum og breytingum með öðrum notendum.
-
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-
-8.	Hvenær er sniðugt að nota greinar (branches)? 
-	
-	* Þegar það er verið að gera responsive website er það hentught vegna þess að þá er 
