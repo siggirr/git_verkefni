@@ -26,10 +26,13 @@ Git spurningar og svör.
 *	git checkout 
 	*	Skipta um branch.
 
-3. Hver er munurinn á eftirfarandi git skipunum:
+#3. Hver er munurinn á eftirfarandi git skipunum:
 *	a) git diff 		    
 	* Sýnir það sem var merge-að
 *	b) git diff --staged        
 	* Til að sjá hvað það var breytt sem hefur verið stage-að
 *	c) git diff commit1 commit2 
 	* Sýnir munnin á tveimur "committum"
+
+#4. Hvað er útgáfustýring (e.version control)? 
+	* Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
