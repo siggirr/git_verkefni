@@ -1,6 +1,7 @@
 Git spurningar og svör.
 
-1. Hvað gera eftirfarandi Linux skipanir?
+#1. Hvað gera eftirfarandi Linux skipanir?
+
 *	cd    
 	*	cd command is used to change the current directory.
 *   cd ~  
@@ -12,7 +13,8 @@ Git spurningar og svör.
 *	mkdir 
 	*	Short for "make directory", mkdir is used to create directories on a file system. 
 
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+#2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
 *	git clone    
 	*	Create a working copy of a local repository.
 *	git log      
@@ -23,4 +25,3 @@ Git spurningar og svör.
 	*	View all the merge conflicts.
 *	git checkout 
 	*	Skipta um branch.
-	
