@@ -35,7 +35,12 @@ Git spurningar og svör.
 	* Sýnir munnin á tveimur "committum"
 
 #4. Hvað er útgáfustýring (e.version control)? 
-* Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+* Version control is a software that allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more.
 
 #5.	Hverjir eru helstu kostir við að nota GIT?
-* Það er mjög hentugt t.d. að vinna í hóp til að share-a hugmyndum og breytingum með öðrum notendum.
+* Það er mjög hentugt t.d. að vinna í hóp til að deila hugmyndum og breytingum með öðrum notendum.
+
+#6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+* Ég tel að maður eigi að gera commit alltaf þegar maður er búinn að breytta kóðanum og er sáttur við þær breyttingar sem maður hefur framhvæmt.
+
+#7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
