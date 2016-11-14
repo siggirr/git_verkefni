@@ -1,8 +1,13 @@
 Git spurningar og svör.
 
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd    : cd command is used to change the current directory.
-	cd ~  : Change directory(Home directory).
-	ls    : Lists the contents of a directory.
-	pwd   : pwd prints the full pathname of the current working directory.
-	mkdir : Short for "make directory", mkdir is used to create directories on a file system.
+*	cd    
+	* cd command is used to change the current directory.
+*   cd ~  
+	* Change directory(Home directory).
+*	ls    
+	* Lists the contents of a directory.
+*	pwd   
+	* pwd prints the full pathname of the current working directory.
+*	mkdir 
+	* Short for "make directory", mkdir is used to create directories on a file system.
