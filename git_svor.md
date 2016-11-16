@@ -53,5 +53,5 @@ Git spurningar og svör.
 
 
 
-Höfundur: Sigurður Róbert Rúnarsson.
-*
+Höfundur:
+Sigurður Róbert Rúnarsson.
