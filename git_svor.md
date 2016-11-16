@@ -49,4 +49,5 @@ Git spurningar og svör.
 * ef skrá er komin í repository er búið að gera git push og hún komin á t.d. Github.com, repository er "geymsla" fyrir skrárnar í verkefninu
 
 #8. Hvenær er sniðugt að nota greinar (branches)?
-* það getur verið sniðugt að nota greinar þegar verið er að fara að prófa eitthvað annað í verkefninu eins og t.d. að gera mobile layout það getur verið betra að gera það í sér grein til þess að eyðileggja ekkert á master greininni
+* það getur verið sniðugt að nota greinar þegar verið er að fara að prófa eitthvað annað í verkefninu eins og t.d. að gera mobile layout það getur verið betra að gera það í sér grein til þess að eyðileggja ekkert á master greininni.
+
