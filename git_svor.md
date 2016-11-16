@@ -51,3 +51,4 @@ Git spurningar og svör.
 #8. Hvenær er sniðugt að nota greinar (branches)?
 * það getur verið sniðugt að nota greinar þegar verið er að fara að prófa eitthvað annað í verkefninu eins og t.d. að gera mobile layout það getur verið betra að gera það í sér grein til þess að eyðileggja ekkert á master greininni.
 
+Nafn: Sigurður Róbert Rúnarsson.
