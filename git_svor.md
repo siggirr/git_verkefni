@@ -52,3 +52,5 @@ Git spurningar og svör.
 * það getur verið sniðugt að nota greinar þegar verið er að fara að prófa eitthvað annað í verkefninu eins og t.d. að gera mobile layout það getur verið betra að gera það í sér grein til þess að eyðileggja ekkert á master greininni.
 
 Nafn: Sigurður Róbert Rúnarsson.
+..
+Nafn: Sigurður Róbert Rúnarsson.
