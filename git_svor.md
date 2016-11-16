@@ -44,3 +44,9 @@ Git spurningar og svör.
 * Ég tel að maður eigi að gera commit alltaf þegar maður er búinn að breytta kóðanum og er sáttur við þær breyttingar sem maður hefur framhvæmt.
 
 #7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+* ef skrá er í working directory þá ert þú enn að vinna í henni
+* ef skrá er í staging area er búið að gera git add og git commit en ekki git push
+* ef skrá er komin í repository er búið að gera git push og hún komin á t.d. Github.com, repository er "geymsla" fyrir skrárnar í verkefninu
+
+#8. Hvenær er sniðugt að nota greinar (branches)?
+* það getur verið sniðugt að nota greinar þegar verið er að fara að prófa eitthvað annað í verkefninu eins og t.d. að gera mobile layout það getur verið betra að gera það í sér grein til þess að eyðileggja ekkert á master greininni
